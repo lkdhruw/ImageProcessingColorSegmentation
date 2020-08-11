@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Dhruw\PycharmProjects\ImageProcessingColorSegmentation\venv"
+VIRTUAL_ENV="C:\Users\lkdhr\PycharmProjects\ImageProcessingColorSegmentation\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
